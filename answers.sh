@@ -7,7 +7,7 @@ cd ORIGIN
 mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 
 # Task 2
-# rm Memes/Spongebob/money.jpeg
+rm Memes/Spongebob/money.jpeg
 
 # Task 3
 mv Memes/Star\ Wars/fafsa.jpg Memes/Spongebob/fafsa.jpg
