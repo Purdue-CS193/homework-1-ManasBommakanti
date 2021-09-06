@@ -10,7 +10,7 @@ mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 rm Memes/Spongebob/money.jpeg
 
 # Task 3
-mv Memes/Star\ Wars/fafsa.jpg Memes/Spongebob/fafsa.jpg
+mv Memes/Star\ Wars/fafsa.jpg Memes/SpongeBob/fafsa.jpg
 
 # Task 4
 rm -r Homework/CS191
@@ -22,7 +22,7 @@ mkdir Programs/C++
 mv Programs/Age.cpp Programs/C++/Age.cpp
 
 # Task 7
-cp Programs/Java Homework/CS180/Project_1
+cp -r Programs/Java Homework/CS180/Project_1
 
 # Task 8
 mv Programs/*.c Programs/C
