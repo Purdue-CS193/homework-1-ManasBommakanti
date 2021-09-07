@@ -7,7 +7,7 @@ cd ORIGIN
 mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 
 # Task 2
-rm Memes/Spongebob/money.jpeg
+rm Memes/SpongeBob/money.jpeg
 
 # Task 3
 mv Memes/Star\ Wars/fafsa.jpg Memes/SpongeBob/fafsa.jpg
@@ -34,7 +34,7 @@ mv Programs/*.py Programs/Python\ 3
 touch Homework/POL141/Essay.txt
 
 # Task 11
-ls -al
+ls ..
 
 # Task 12
 :set mouse=a
